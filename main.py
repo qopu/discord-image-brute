@@ -75,7 +75,7 @@ def brute_id_debug(first_link_part, real_id, third_link_part, digits_to_guess):
 
 
 def download_images():
-    with open('C:/Users/user/Desktop/image.jpg', 'wb') as handler:
+    with open('image.jpg', 'wb') as handler:
         handler.write(images[0])
 
 
