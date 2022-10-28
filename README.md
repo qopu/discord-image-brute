@@ -22,5 +22,5 @@ As you can see, the only dynamic part of the link is the **Message ID**, which y
   ```
 - **Run program**
   ```shell
-  python3 main.py
+  python3 dispicbrute-cli.py
   ```
